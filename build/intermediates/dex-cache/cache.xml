@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_2d3bd3ee2824643f7665cf037028b65180b8c26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\okio-1.8.0_ffc73030e20d8b08bf5935cc18fbd275276034b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd8fa9304e376adaf936c3db097240d2efcb116f">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT_b91a1e20880164cef3423a630c67f648c022afeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\soload.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75fac6d5abe785d6658b93e008f7ef77b3fcfdc0">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\soload_e74698e06e656d5754107812e187d5e65debabf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_2d499d37b31970cf94b2f7027780678ea455b098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_881ce87f04bd38e9d859eccd243ef12caf376a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_1d1cd245be00b45c3bc84f854b2067ada2db811d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_23bee36f90e30fc9429a1e6cd662cd8373261f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5c3bfa4bfcf50a9780469f5fc6aa8e9123ecf808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_4c20c96df4cbbc4deeb87d9538646907a482b440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\mobilepb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\mobilepb_392231f3f3c4a1ce98ef3e41348e6ba8c08c8443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_d4a24f2207241d73a4ef1f7a10f09e30d640e528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_232e1e2269e21459faf4e116c79b5f7d4bdd492a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_18afbab24b71d4becc4cc0d494703d226db07d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_410d63bc3fa5132c776dcee8253f464f732b9f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.github.ctiao\dfm\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b3f584b84edf343ad7475cc0ee3715ef7757908">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.github.ctiao-dfm-0.4.4_c3976e1359baeacc5750667380bbb15947e899dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\qalsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d483ea2c44f44d8952731f131298e2dce0ad94e7">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\qalsdk_44db0bd8ae3c6e05e269e7f49717203085d8d4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_121b4e433cdc30e6c0832214582120cf27819f47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_563a5351c1954e57600d727c40656f8ea864cb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_764e6ac4c9cf7608e5f7c215317365585dd8a3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_134a9b8e328cad91aac40bfef064eedf7572f633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\imsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de2f254b1f86fcd4be7afde79f4c25217d58bee9">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\imsdk_06927839474ac88bdee5707a88887ef6b7dfadd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_11d4df428ddade3571534c5514fcf00bb2bfbac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\gson-2.3.1_07a4caaf50d8150825f65189281e833a67e91149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_5f019d5c12bf5da9a344715fd967753b281ebc67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.makeramen-roundedimageview-2.3.0_0132925b0a386f9cc1253d3c0bdba48235a70a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\AndroidSDK\build-tools\25.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\renderscript-v8_cfb94afc57bfb9176188086225546d4902777c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\alipaySingle-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="795c38473dc8c277a8a07694592e13d7e7601108">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\alipaySingle-20161222_af1365b889b355c1369930f3e410ebfb46de412d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\tls_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c5362cce8b694aa3ae38a8376ffa707a145fb79">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\tls_sdk_5ded9afce2d9f21ff0b4c2c60f7dea4d73910976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_99be3edc60a36f4bb098ea7c777302f3c4873d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_46adbd94a7607304c698c8df065904f9698ae72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_262b0ef897dfcdf3a3da666c47f9e3441b23728d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\txrtmpsdk_1.9.1.2088.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40b7a521a7ffbc2717a2117023539f72a69bf938">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\txrtmpsdk_1.9.1.2088_95bedc9b0a48a5339bc65e9e7f486c6212016fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_6fb6b05c831d8b771a762a5369ea614d7b8683a2.jar" />
+    </item>
+
+</items>
