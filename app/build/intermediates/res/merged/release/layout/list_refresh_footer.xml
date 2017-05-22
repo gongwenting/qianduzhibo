@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <ProgressBar
+        android:id="@+id/pull_to_refresh_progress"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="30dp"
+        android:layout_toLeftOf="@+id/pull_to_refresh_text"
+        android:clickable="false"
+        android:focusableInTouchMode="false"
+        android:indeterminate="false"
+        android:indeterminateDrawable="@drawable/progress_bar_rotate_public"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/pull_to_refresh_text"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:clickable="false"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:text="@string/loading_ing"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/get_more"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:clickable="false"
+        android:gravity="center"
+        android:text="@string/mores"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\problems.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\problems.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\earndings_mobile.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_mobile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\confirmpswd.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\confirmpswd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\earndings_alipay.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_alipay.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\earndings_name.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_name.png"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/leave_message_detail"
+    android:visibility="gone"
+    android:background="@color/white"
+    android:layout_height="300dp"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorSendName1"
+            android:padding="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_centerVertical="true"
+                android:textSize="@dimen/text_size_18"
+                android:text="@string/leave_message_wall"/>
+
+
+            <ImageView
+                android:id="@+id/cancle_show"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="@dimen/text_size_10"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/message_cancle"/>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <android.support.v4.widget.SwipeRefreshLayout
+                android:id="@+id/srl_leave_msg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/leave_message_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </android.support.v4.widget.SwipeRefreshLayout>
+
+
+
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

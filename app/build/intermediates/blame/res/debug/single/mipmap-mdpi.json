@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_name.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_name.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\confirmpswd.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-mdpi\\confirmpswd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\confirmpswd.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\confirmpswd.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_alipay.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-mdpi\\earndings_alipay.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_mobile.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-mdpi\\earndings_mobile.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\problems.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-mdpi\\problems.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_name.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-mdpi\\earndings_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\problems.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\problems.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_mobile.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_mobile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\earndings_alipay.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-mdpi\\earndings_alipay.png"
+    }
+]

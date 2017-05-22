@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_guanzhu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.qiandu.live.activity.GuanzhuActivity">
+    <RelativeLayout
+        android:id="@+id/tobar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/backclols"
+        android:orientation="horizontal"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:id="@+id/btn_houtui"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:background="@mipmap/title_btn_return"
+                android:paddingTop="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:padding="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:text="关于我们"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:layout_alignTop="@+id/btn_houtui"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@mipmap/logoo"
+        android:layout_marginTop="25dp"
+        android:id="@+id/imageView3"
+        android:layout_below="@+id/tobar"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView3">
+        <TextView
+
+            android:layout_width="match_parent"
+            android:background="@color/C6"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/layou_shehuigongyue"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="社会公约"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:id="@+id/textView5" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:background="@mipmap/dayuhao"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/textView5"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="19dp"
+                android:layout_marginEnd="19dp"
+                android:id="@+id/imageView4" />
+        </RelativeLayout>
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:background="@color/C6"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/layou_yingsitiaokuan"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="隐私条款"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:id="@+id/textView6" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:background="@mipmap/dayuhao"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/textView6"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="19dp"
+                android:layout_marginEnd="19dp"
+                android:id="@+id/imageView7" />
+        </RelativeLayout>
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:background="@color/C6"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/layou_fuwutiaokuan"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="服务条款"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="23dp"
+                android:layout_marginStart="23dp"
+                android:id="@+id/textView8" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:background="@mipmap/dayuhao"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="19dp"
+                android:layout_marginEnd="19dp"
+                android:id="@+id/imageView9"
+                android:layout_alignTop="@+id/textView8"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:background="@color/C6"
+            android:layout_height="1dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

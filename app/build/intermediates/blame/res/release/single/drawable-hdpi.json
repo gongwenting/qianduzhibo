@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_red_pre.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\btn_red_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_switch_camera_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_switch_camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\switch_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\switch_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_red_nor.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\btn_red_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_flash_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_flash_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_setting_down.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_3.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_8.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_10.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bg_admin_more.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\bg_admin_more.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_2.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_2.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\playing.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\playing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_weixin.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_weixin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_8.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_qq_pre.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_qq_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\homeed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\homeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wode.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\wode.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\playinged.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\playinged.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\subscribe_progress.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\subscribe_progress.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_1.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_1.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_4.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_cancle.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\message_cancle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_7.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\btn_red.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\btn_red.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\live_img_chat_black.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\live_img_chat_black.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_sina.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_sina.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_item_selected.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\music_item_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\play.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\qr_code.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\qr_code.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_7.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\no_data_tip.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\no_data_tip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\net_error_tip.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\net_error_tip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mic_black.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\mic_black.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_11.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\switch_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\switch_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_weixin_pre.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_weixin_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\scan.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_4.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_big.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\music_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\motion_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\motion_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\wodeed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\wodeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mic.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\circle.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_12.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_12.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loginout_sure.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loginout_sure.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loginout_cancel.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loginout_cancel.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_5.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\beauty_seekbar_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_qq.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_qq.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_login_name_left_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\user_login_name_left_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\home.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\live_setting_popup_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\live_setting_popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_setting_up.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\payment_click.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\payment_click.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_6.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\played.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\played.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_5.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\seekbar_line.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\seekbar_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_beauty_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_beauty_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_third_sina_pre.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\login_third_sina_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\paihang.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\paihang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_message_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\icon_message_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\switch_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\switch_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_11.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\clear_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\clear_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\loading_10.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\loading_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\search.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_black.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\music_black.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\payment.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\payment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\payment_button.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\payment_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_6.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\paihanged.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\paihanged.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_login_psw_left_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\user_login_psw_left_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\chat_heart_3.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\chat_heart_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_choice.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\music_choice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\seekbar_line_highlight.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-hdpi\\seekbar_line_highlight.png"
+    }
+]

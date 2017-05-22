@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_play_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="contentDescription">
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <com.tencent.rtmp.ui.TXCloudVideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/iv_live_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+
+    <RelativeLayout
+        android:id="@+id/rl_controllLayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/layout_live_pusher_info"
+            layout="@layout/layout_live_pusher_info"
+            android:layout_width="180dp"
+            android:layout_height="70dp"
+            android:layout_margin="5dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_user_avatar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/layout_live_pusher_info"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/layout_live_pusher_info"
+            android:layout_toEndOf="@+id/layout_live_pusher_info">
+            <Button
+                android:id="@+id/btn_email"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:background="@drawable/email"
+                android:layout_alignParentBottom="true"
+                android:onClick="onClick" />
+            <ImageView
+                android:id="@+id/btn_like"
+                android:layout_marginRight="10dp"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:layout_toLeftOf="@+id/btn_fengxiang"
+                android:background="@drawable/icon_like"
+                android:onClick="onClick" />
+
+            <ImageView
+                android:id="@+id/btn_fengxiang"
+                android:layout_marginRight="10dp"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:layout_toLeftOf="@+id/btn_gift"
+                android:background="@mipmap/fenxoamg"
+                android:onClick="onClick" />
+
+
+            <Button
+                android:id="@+id/btn_gift"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/live_btn_gift_pressed"
+                android:onClick="onClick" />
+        </LinearLayout>
+        <!--点赞动画-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="15dp">
+
+            <com.qiandu.live.ui.customviews.HeartLayout
+                android:id="@+id/heart_layout"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:focusable="true" />
+            <ImageView
+                android:id="@+id/btn_close"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:background="@drawable/btn_close"
+                android:onClick="onClick"
+                android:layout_marginLeft="68dp"
+                android:layout_marginStart="68dp"
+                android:layout_marginBottom="11dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                />
+
+            <ImageView
+                android:layout_marginBottom="5dp"
+                android:id="@+id/btn_laba"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:background="@mipmap/laba"
+                android:onClick="onClick"
+                android:layout_marginLeft="73dp"
+                android:layout_marginStart="73dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <ImageView
+                android:id="@+id/btn_message_input"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:background="@mipmap/messger"
+                android:onClick="onClick"
+                android:layout_marginBottom="5dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginStart="15dp" />
+
+            <ImageView
+                android:layout_marginBottom="5dp"
+                android:id="@+id/img_maiko"
+                android:layout_width="@dimen/live_btn_size"
+                android:layout_height="@dimen/live_btn_size"
+                android:background="@mipmap/maikefen"
+                android:onClick="onClick"
+                android:layout_marginLeft="27dp"
+                android:layout_marginStart="27dp"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@+id/btn_laba"
+                android:layout_toEndOf="@+id/btn_laba" />
+
+
+
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/im_msg_listview"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_above="@id/tool_bar"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:cacheColorHint="#00000000"
+            android:divider="#3c421b1b"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollbars="none"
+            android:stackFromBottom="true"
+            android:transcriptMode="normal" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/leave_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        layout="@layout/email_layout"/>
+
+    <include
+        android:id="@+id/liveGiftLayout"
+        layout="@layout/live_gifts_layout" />
+</RelativeLayout>

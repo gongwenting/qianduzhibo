@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rechar_gouqian.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\rechar_gouqian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\record_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\record_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\toast_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\toast_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\lv01.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\lv01.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\live_gift_zsgold.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_gift_zsgold.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\live_btn_gift_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_btn_gift_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_close_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\btn_close_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rechar_gouxuan.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\rechar_gouxuan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\splash_bg.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\live_btn_gift_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_btn_gift_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_close_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\btn_close_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rechar_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\rechar_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rechar_selected.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\rechar_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\live_head_placeholder.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_head_placeholder.png"
+    }
+]

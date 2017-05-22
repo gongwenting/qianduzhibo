@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:background="@drawable/item_giftmarket_bg_selector"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <ImageView
+        android:id="@+id/item_gift_icon"
+        android:layout_width="80dp"
+        android:padding="14dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_item_gift_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:singleLine="true"
+        android:text="棒棒糖"
+        android:textColor="@color/white"
+        android:textSize="@dimen/h3" />
+
+    <TextView
+        android:id="@+id/tv_item_gift_cost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="100币"
+        android:textColor="@color/live_gift_cost_gold"
+        android:textSize="@dimen/h1" />
+
+
+</LinearLayout>

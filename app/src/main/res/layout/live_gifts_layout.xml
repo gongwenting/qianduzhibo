@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:orientation="vertical"
+        android:paddingLeft="16dp">
+
+        <LinearLayout
+            android:id="@+id/live_gift_con1"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical"/>
+
+        <LinearLayout
+            android:id="@+id/live_gift_con2"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="-20dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical"/>
+
+        <LinearLayout
+            android:id="@+id/live_gift_con3"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="-20dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/gift_item_layout"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="200dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/live_gift_img"
+            android:layout_width="60dp"
+            android:layout_height="60dp"/>
+
+        <TextView
+            android:id="@+id/live_gift_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/live_gift_img"
+            android:padding="2dp"
+            android:text="x20"
+            android:textColor="@color/btn_red"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+    <com.qiandu.live.ui.gift.LiveGiftView
+        android:id="@+id/live_gift_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:visibility="gone"/>
+
+</FrameLayout>

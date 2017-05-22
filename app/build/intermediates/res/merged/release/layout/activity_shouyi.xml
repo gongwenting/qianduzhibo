@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_shouyi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.qiandu.live.activity.ShouyiActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/backclols"
+        android:id="@+id/relativeLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/my_income"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/textView8" />
+
+        <RelativeLayout
+            android:id="@+id/btn_houtui"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:background="@mipmap/title_btn_return"
+                android:paddingTop="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:padding="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/recode_withdraw"
+            android:paddingLeft="@dimen/text_size_10"
+            android:paddingRight="@dimen/text_size_10"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/withdrawalInfo"
+            android:textColor="@color/backclols"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/text_size_10"
+            android:textSize="@dimen/text_size_16"
+            android:background="@drawable/button_bg_white_shape"/>
+
+    </RelativeLayout>
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></WebView>
+
+</LinearLayout>

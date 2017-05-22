@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    }
+]

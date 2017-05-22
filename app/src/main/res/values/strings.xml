@@ -1,0 +1,310 @@
+<resources>
+    <string name="app_name">千度直播</string>
+    <string name="today_gain">今日可提现额度</string>
+    <string name="withdrawal">提   现</string>
+    <string name="withdrawalInfo">提现记录</string>
+
+    <string name="my_income">我的收益</string>
+    <string name="alipay_account">请输入支付宝账号</string>
+    <string name="alipay_name">请输入支付宝姓名</string>
+    <string name="alipay_mobile">请输入常用手机号</string>
+    <string name="withdraw_recode">提现记录</string>
+    <string name="now_integration">现有金币:</string>
+    <string name="ps_enable">可兑换:</string>
+    <string name="btn_cancle">取消</string>
+    <string name="btn_exchange">兑  换</string>
+    <string name="ps">提示:</string>
+    <string name="ps_coin">1000金币起兑!</string>
+
+    <!--留言墙:-->
+    <string name="leave_message_wall">留言墙:</string>
+
+
+    <!-- login re fragment-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="tencent_tls_ui_independentLoginTitle">用户名登录</string>
+    <string name="tencent_tls_ui_independentRegisterTitle">用户名注册</string>
+    <string name="chenyuan_list">成员列表</string>
+    <string name="jinbigongxiangbang">金币贡献榜</string>
+    <string name="chongzhi_zhanghao">充值账号:</string>
+    <string name="zhanghu_yue">账户余额</string>
+    <string name="action_settings">settings</string>
+    <string name="btn_pic_jiazu">加入家族</string>
+    <string name="btn_bingin_jiazu">创建家族</string>
+    <string name="tell">拨通联系电话4008230371</string>
+    <string name="btn_take_photo">拍照</string>
+    <string name="btn_pic_photo">从手机相册选择</string>
+    <string name="btn_return_home">返回首页</string>
+    <string name="btn_return">返回</string>
+    <string name="btn_save">保存</string>
+    <string name="btn_cancel">取   消</string>
+    <string name="btn_refuse">拒绝</string>
+    <string name="btn_agree">同意</string>
+    <string name="btn_sure">确定</string>
+    <string name="btn_close">关闭</string>
+
+
+    <string name="login">登录</string>
+    <string name="forget_pswd">重置密码</string>
+
+    <string name="live_host_im_name">主播</string>
+    <string name="live_tourist">游客</string>
+
+    <string name="error_code_prefix">错误码：</string>
+
+    <!--loginActivity -->
+    <string name="activity_login_login">登录</string>
+    <string name="activity_login_phone_login">手机号登录</string>
+    <string name="activity_login_normal_login">用户名登录</string>
+    <string name="activity_login_register">注册新用户</string>
+    <string name="activity_login_guest_login">游客模式</string>
+    <string name="activity_login_username">请输入手机号</string>
+    <string name="activity_login_verify_code">获取验证码</string>
+    <string name="activity_login_verify_code_edit">验证码</string>
+    <string name="activity_login_phone_num">手机号</string>
+    <string name="activity_login_password">密码</string>
+    <!--loginActivity -->
+
+    <!--registerActivity -->
+    <string name="activity_register_phone_register">手机注册</string>
+    <string name="activity_register_normal_register">用户名注册</string>
+    <string name="activity_register_register">注册</string>
+    <string name="activity_register_username">用户名(4~24位字母、数字、下划线)</string>
+    <string name="activity_register_password">密码(6~16位个字符)</string>
+    <string name="activity_register_password_verify">确认密码</string>
+    <string name="activity_register_phone_num">手机号</string>
+    <string name="activity_register_verify_code">验证码</string>
+    <string name="activity_register_return">返回</string>
+    <!--registerActivity -->
+
+    <!-- permission check-->
+    <string name="float_window_not_allow">悬浮窗权限未开启 请在应用-权限中打开悬浮窗权限</string>
+
+    <string name="dialog_input_text_hint">开启弹幕互动吧</string>
+
+    <string name="dialog_selectSex">请选择</string>
+    <!-- live fragment-->
+    <string name="live_unknown">不显示地理位置</string>
+    <string name="live_titile">最新直播</string>
+    <string name="video_list_empty">没有视频</string>
+
+    <!-- publish activity-->
+    <string name="activity_publish_beauty">美颜效果</string>
+    <string name="activity_publish_white">美白效果</string>
+
+    <!-- live play -->
+    <string name="qinmidu">亲密度:</string>
+    <string name="send">发送</string>
+    <string name="jiazuxuanyan">请输入加入名称</string>
+    <string name="joinfrinl">请输入加入名称</string>
+    <string name="invite_dialog_tips">主播邀请您与他进行互动直播</string>
+    <string name="live_end_ask_tips">确定结束直播?</string>
+    <string name="live_end_tips">直播结束啦!</string>
+    <string name="live_time_tips">直播时长</string>
+    <string name="live_members_tips">观看人数</string>
+    <string name="live_admires_tips">获赞数量</string>
+
+    <string name="live_report_tips">请选择您的举报原因</string>
+    <string name="live_report_dirty">垃圾营销</string>
+    <string name="live_report_false">不实信息</string>
+    <string name="live_report_virus">有害信息</string>
+    <string name="live_report_illegal">违法信息</string>
+    <string name="live_report_yellow">淫秽信息</string>
+    <string name="live_btn_par">par</string>
+    <string name="live_btn_record">录制</string>
+    <string name="live_btn_push">开启推流</string>
+    <string name="live_btn_stop_push">关闭推流</string>
+    <string name="live_btn_stop_record">停录</string>
+
+    <!-- pushstream -->
+    <string name="clip_title">点击地址复制到黏贴版</string>
+    <string name="clip_tip">地址复制到黏贴版上了</string>
+
+    <string name="private_mode_off">隐私模式已关闭</string>
+    <string name="private_mode_on">隐私模式已开启</string>
+
+    <!-- msgadapter -->
+    <item name="tag_first" type="id"></item>
+    <item name="tag_second" type="id"></item>
+
+
+    <!-- userInfo fragment-->
+    <string name="userinfo_title">编辑个人信息</string>
+    <string name="userinfo_head">头像</string>
+    <string name="userinfo_nickname">昵称</string>
+    <string name="userinfo_sex">性别</string>
+    <string name="userinfo_cover">直播封面</string>string>
+    <string name="userinfo_sign">签名</string>
+
+    <string name="userinfo_sex_female">女</string>
+    <string name="userinfo_sex_male">男</string>
+
+    <string name="app_about">关于</string>
+    <string name="app_set">个人信息</string>
+    <string name="app_fance">我的粉丝</string>
+    <string name="app_follow">我的关注</string>
+    <string name="btn_login_out">退出登录</string>
+    <string name="tip_force_offline">您的帐号已在其它地方登陆</string>
+
+    <!-- set -->
+    <string name="set_live_animator">渐隐动画</string>
+    <string name="set_log_level">日志等级</string>
+    <string name="set_sdk_version">SDK版本</string>
+
+    <!-- icon_edit -->
+    <string name="edit_error">修改失败</string>
+
+
+    <!-- fragment publish -->
+    <string name="publish_already_launch_avRoom">wait!</string>
+    <string name="publish_photo_take">拍照</string>
+    <string name="publish_photo_album">相册</string>
+    <string name="publish_need_photo_tips">从未发起过图片，请选择一张作为直播封面</string>
+    <string name="publish_wait_uploading">请等待封面上传完成</string>
+    <string name="publish_upload_success">上传封面成功</string>
+    <string name="publish_photo_make_sure_tips">请添加一张照片</string>
+    <string name="publish_photo_make_sure_title">请输入图片标题</string>
+    <string name="publish_create_room_failed">创建房间失败</string>
+    <string name="publish_upload_cover_failed">上传封面失败</string>
+    <string name="publish_photo_success">发布图片成功</string>
+    <string name="text_continue">继续</string>
+    <string name="text_publish">开始直播</string>
+    <string name="text_live_preview">发布直播</string>
+    <string name="text_photo_preview">发布照片</string>
+    <string name="text_live_title_input">请输入直播标题</string>
+    <string name="text_photo_title_input">你的照片你做主</string>
+    <string name="text_live_open_lbs">开启位置</string>
+    <string name="text_live_close_lbs">不显示地理位置</string>
+    <string name="text_live_record_yes">进行录制</string>r
+    <string name="text_live_record_no">不进行录制</string>r
+    <string name="text_live_record_scr">启动录屏</string>
+    <string name="text_live_not_record_scr">不启动录屏</string>
+    <string name="text_live_location">正在定位中</string>
+    <string name="text_live_lbs_fail">定位失败</string>
+    <string name="text_live_lbs_unknown">不显示地理位置</string>
+    <string name="text_live_default_title">我的直播我做主</string>
+    <string name="text_start_push">开启推流</string>
+    <string name="text_start_screen_record">启动录屏</string>
+    <string name="text_record_info">开始录制后直播视频自动录制，并可以进行回放</string>
+    <string name="text_live_all_see">所有人可看</string>
+    <string name="text_live_share">同步到</string>
+    <string name="text_live">正在直播>></string>
+    <string name="text_live_add_title_tips">给你的直播设置一个满意的封面</string>
+    <string name="text_live_admire_limit">点赞过于频繁</string>
+    <string name="tip_no_permission">权限不足</string>
+
+    <string name="host_sign">我的签名就是把我的世界直播给你们</string>
+    <string name="host_phone">iPhone6S Plus</string>
+    <string name="host_funs">粉丝数:9090</string>
+    <string name="host_follow">关注:7089</string>
+    <string name="host_admire">赞:11.3w</string>
+    <string name="zhanghu_dengji">等级</string>
+
+    <string name="ping_ing">测速中</string>
+    <string name="ping_progress">测速进度</string>
+    <string name="ping_speed_test">网络测速</string>
+    <string name="ping_start">开始测速</string>
+    <string name="ping_no_server">获取测速列表失败，请稍后重试</string>
+    <string name="ping_time">平均时延</string>
+    <string name="ping_miss">丢包率</string>
+    <string name="ping_cancel">取消</string>
+    <string name="ping_TEL">电信</string>
+    <string name="ping_CMCC">移动</string>
+    <string name="ping_CNC">联通</string>
+    <string name="ping_SH">上海</string>
+    <string name="ping_SZ">深圳</string>
+    <string name="ping_CD">成都</string>
+    <string name="ping_TJ">天津</string>
+    <string name="ping_NJ">南京</string>
+    <string name="ping_HZ">杭州</string>
+    <string name="ping_GZ">广州</string>
+
+    <string name="live_cancel">确定结束直播？</string>
+    <string name="gift_market_dialog_balance">余额： </string>
+    <string name="gift_market_dialog_title">赠送礼物 </string>
+    <string name="gift_market_dialog_pay">充值></string>
+    <string name="gift_market_dialog_send">赠送</string>
+    <string name="gift_market_text_syb">币</string>
+    <string name="gift_market_no_syb">免费</string>
+
+    <string name="live_gift_dialog_title">打赏币</string>
+    <string name="live_gift_dialog_send">打赏</string>
+    <string name="live_gift_dialog_pay"><u>兑换币</u></string>
+    <string name="live_gift_dialog_balance_part1">余额： </string>
+    <string name="live_gift_dialog_balance_part2">币</string>
+    <string name="live_gift_dialog_zsb_send_success">打赏成功！</string>
+    <string name="live_gift_dialog_gift_send_success">送礼成功！</string>
+    <string name="live_gift_dialog_gift_send_failed">送礼失败！</string>
+    <string name="live_gift_dialog_gift_send_sybnotenough">币不足，请充值。</string>
+    <string name="live_gift_dialog_zsb_send_error">网络异常</string>
+    <string name="live_gift_send">送出了</string>
+    <string name="live_gift_unit">个</string>
+    <string name="live_gift_msg_zhb">枚币</string>
+    <string name="live_syb_gottopay_dialog">您的币不足是否去充值？</string>
+
+
+    <string name="forgetPwd">忘记密码？</string>
+    <string name="register">注册</string>
+    <string name="loginActivity_username_name">用户名：</string>
+    <string name="loginActivity_pwd_pwd">密\t\t码：</string>
+    <string name="loginActivity_username_des">手机号</string>
+    <string name="loginActivity_pwd_des">请输入密码</string>
+    <string name="loginActivity_login">登录</string>
+    <string name="loginActivity_input_name_pwd">请输入用户名和密码</string>
+    <string name="loginActivity_input_name">请输入用户名</string>
+    <string name="loginActivity_input_pwd">请输入密码</string>
+    <string name="other_login_ways">其他登录方式</string>
+
+    <string name="live_setting_flash_open">开闪光</string>
+    <string name="live_setting_flash_close">关闪光</string>
+    <string name="live_setting_camera"> 翻转</string>
+    <string name="live_setting_beauty_open">开美颜</string>
+    <string name="live_setting_beauty_close">关美颜</string>
+    <string name="live_setting_music">音效</string>
+    <string name="live_setting_filter">滤镜</string>
+
+    <string name="live_follow_author">关注主播</string>
+    <string name="live_fore_finish">发起个人直播</string>
+    <string name="live_join_live">&#160;来了</string>
+    <string name="live_quite_live">离开房间</string>
+    <string name="live_member_first_send_heart">点亮了桃心</string>
+    <string name="live_system_notify">千度直播提倡绿色直播，封面和直播内容含低俗、诱惑、暴露、暴力、赌博等都将被屏蔽热门或封停帐号，网警24小时在线巡查！官方严禁私下交易货币，如遇纠纷，概不负责。</string>
+    <string name="live_system_name">官方提示: </string>
+    <string name="live_follow_host">关注了主播</string>
+    <string name="live_host_leave">主播离开一下，精彩不中断，不要走开呦</string>
+    <string name="live_host_back">主播回来了，视频即将恢复</string>
+    <string name="live_member_silence_notify">您已被禁言，无法评论</string>
+    <string name="live_member_silence_im">被管理员禁言</string>
+    <string name="live_member_silence_dialog">禁言后此人不可以在该直播间互动</string>
+    <string name="live_member_kick_dialog">是否将此人剔出直播间</string>
+    <string name="live_tourist_login_dialog">您需要登录才能进行此操作，是否登录？</string>
+
+    <string name="title_fance">粉丝</string>
+    <string name="title_follow">关注</string>
+    <string name="title_messege">消息</string>
+    <string name="title_search">搜索</string>
+
+    <string name="loading_ing">正在加载…</string>
+    <string name="mores">更多</string>
+    <string name="networkerror_retry">网络异常，上拉重试</string>
+    <string name="no_more_data_and_click">已加载全部内容 点击刷新</string>
+    <string name="net_discnnect">网络异常，请检查网络</string>
+    <string name="create_group_error">创建直播房间失败,Error:</string>
+    <string name="push_url_error">拉取直播推流地址失败,Error:</string>
+    <string name="open_camera_error">无法打开摄像头，需要摄像头权限</string>
+    <string name="open_mic_erroe">无法打开麦克风，需要麦克风权限</string>
+    <string name="recorde_permission_error">无法进行录屏,需要录屏权限</string>
+    <string name="no_login_error">您的帐号已在其它地方登陆</string>
+    <string name="group_not_exit_error">直播已结束，加入失败</string>
+    <string name="join_group_error">加入房间失败，Error:</string>
+    <string name="live_stop_error">直播已结束</string>
+    <string name="msg_stop_watch">正在观看直播，是否退出观看？</string>
+    <string name="not_qcloud_link">非腾讯云链接，若要放开限制请联系腾讯云商务团队</string>
+    <string name="rtmp_play_error">视频流播放失败，Error:</string>
+    <string name="msg_stop_push_error">当前正在直播，是否退出直播？</string>
+    <string name="live_cover_upload_failed">直播封面上传失败</string>
+    <string name="beauty_disenable">手机不支持美颜效果！</string>
+
+    <string name="problems">常见问题</string>
+</resources>

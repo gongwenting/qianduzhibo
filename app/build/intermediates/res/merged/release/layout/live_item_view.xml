@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="contentDescription"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#1A000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/avatar"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_gravity="center_vertical"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:src="@drawable/default_head"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:orientation="vertical"
+            android:layout_toRightOf="@+id/avatar"
+            android:layout_alignTop="@+id/avatar"
+            android:layout_toLeftOf="@+id/textView"
+            android:layout_toStartOf="@+id/textView">
+
+
+            <TextView
+                android:id="@+id/host_name"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="0dp"
+                android:textColor="@color/colorTextG3"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textSize="@dimen/h7"/>
+            <TextView
+                android:id="@+id/host_position"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="0dp"
+                android:textColor="@color/colorTextG3"
+                android:ellipsize="end"
+                android:drawableLeft="@drawable/position"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+
+                android:textSize="@dimen/h7"/>
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:textColor="@color/backclols"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="度币:"
+            android:textSize="12sp"
+            android:id="@+id/textView"
+            android:layout_alignTop="@+id/qinmidu"
+            android:layout_toLeftOf="@+id/qinmidu"
+            android:layout_toStartOf="@+id/qinmidu" />
+        <TextView
+            android:textColor="@color/backclols"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="156465461"
+            android:textSize="12sp"
+            android:id="@+id/qinmidu"
+            android:layout_alignBottom="@+id/avatar"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="30dp"
+            android:layout_marginEnd="30dp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#1A000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/cover"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"/>
+
+        <ImageView
+            android:id="@+id/live_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"/>
+    </RelativeLayout>
+</LinearLayout>

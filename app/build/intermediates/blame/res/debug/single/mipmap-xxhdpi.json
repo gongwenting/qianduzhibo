@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\btn_return.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_return.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lock_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\camera_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\btn_return.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\btn_return.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\home.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\float_logo.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\float_logo.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\home.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\camera_on.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lock_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_off.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lock_on.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_on.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lock_off.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_off.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\camera_off.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\camera_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_off.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\float_logo.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\float_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\recording_background_vertical.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_vertical.png"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\recording_background_vertical.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_vertical.png"
+    }
+]

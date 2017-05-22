@@ -1,0 +1,302 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar_include.xml #generated:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:17
+-keep class android.support.v4.app.FragmentTabHost { <init>(...); }
+
+# view res/layout/activity_paihang.xml #generated:38
+# view res/layout/fragment_live_main.xml #generated:47
+# view res/layout/live_gift_view.xml #generated:92
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/email_layout.xml #generated:46
+# view res/layout/fragment_home_2.xml #generated:8
+# view res/layout/fragment_home_3.xml #generated:8
+# view res/layout/fragment_home_4.xml #generated:8
+# view res/layout/fragment_home_hot.xml #generated:12
+# view res/layout/fragment_home_latest.xml #generated:12
+# view res/layout/fragment_live_list.xml #generated:7
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_caifu.xml #generated:27
+# view res/layout/activity_live_player.xml #generated:39
+# view res/layout/activity_live_publisher.xml #generated:32
+# view res/layout/email_layout.xml #generated:51
+# view res/layout/fragment_home_2.xml #generated:16
+# view res/layout/fragment_home_3.xml #generated:12
+# view res/layout/fragment_home_4.xml #generated:12
+# view res/layout/fragment_home_hot.xml #generated:18
+# view res/layout/fragment_home_latest.xml #generated:18
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
+
+# view res/layout/list_refresh_header.xml #generated:10
+# view res/layout/slider_layout.xml #generated:11
+# view res/layout/slider_layout.xml #generated:20
+# view res/layout/slider_layout.xml #generated:29
+# view res/layout/slider_layout.xml #generated:38
+# view res/layout/slider_layout.xml #generated:46
+# view res/layout/slider_layout.xml #generated:55
+-keep class com.daimajia.slider.library.Indicators.PagerIndicator { <init>(...); }
+
+# view res/layout/list_refresh_header.xml #generated:5
+-keep class com.daimajia.slider.library.SliderLayout { <init>(...); }
+
+# view res/layout/slider_layout.xml #generated:7
+-keep class com.daimajia.slider.library.Tricks.InfiniteViewPager { <init>(...); }
+
+# view res/layout/activity_binder_jiazu.xml #generated:73
+# view res/layout/activity_my_fanily.xml #generated:73
+# view res/layout/activity_user.xml #generated:94
+-keep class com.makeramen.roundedimageview.RoundedImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.qiandu.live.LiveApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.qiandu.live.activity.BinderJiazuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.qiandu.live.activity.CaifuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.qiandu.live.activity.ChenyuanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.qiandu.live.activity.CoinExchangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.qiandu.live.activity.DengjiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class com.qiandu.live.activity.ForgetPswdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.qiandu.live.activity.FuwutiaokuanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class com.qiandu.live.activity.GuanzhuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.qiandu.live.activity.JiazuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.qiandu.live.activity.LianxiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.qiandu.live.activity.LivePlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.qiandu.live.activity.LivePublisherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.qiandu.live.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.qiandu.live.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.qiandu.live.activity.MyFanilyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.qiandu.live.activity.ProblemsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.qiandu.live.activity.PublishSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.qiandu.live.activity.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.qiandu.live.activity.RibangActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.qiandu.live.activity.ShehuigongyueActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:144
+-keep class com.qiandu.live.activity.ShezhiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.qiandu.live.activity.ShouyiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.qiandu.live.activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.qiandu.live.activity.UserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.qiandu.live.activity.YingsitiaokuanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.qiandu.live.activity.ZhuboRenzhenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.qiandu.live.service.LiveGiftServices { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.qiandu.live.service.ScreenRecordService { <init>(...); }
+
+# view res/layout/activity_publish_setting.xml #generated:149
+# view res/layout/activity_publish_setting.xml #generated:197
+-keep class com.qiandu.live.ui.customviews.CustomSwitch { <init>(...); }
+
+# view res/layout/activity_live_player.xml #generated:100
+# view res/layout/activity_live_publisher.xml #generated:89
+-keep class com.qiandu.live.ui.customviews.HeartLayout { <init>(...); }
+
+# view res/layout/fragment_filter.xml #generated:22
+-keep class com.qiandu.live.ui.customviews.HorizontalPickerView { <init>(...); }
+
+# view res/layout/gift_pager_item_layout.xml #generated:6
+-keep class com.qiandu.live.ui.gift.CustomGridView { <init>(...); }
+
+# view res/layout/live_gift_view.xml #generated:100
+-keep class com.qiandu.live.ui.gift.IndicatorView { <init>(...); }
+
+# view res/layout/live_gift_item.xml #generated:7
+-keep class com.qiandu.live.ui.gift.LiveGiftItemView { <init>(...); }
+
+# view res/layout/live_gifts_layout.xml #generated:63
+-keep class com.qiandu.live.ui.gift.LiveGiftView { <init>(...); }
+
+# view res/layout/activity_paihang.xml #generated:22
+# view res/layout/fragment_live_main.xml #generated:26
+-keep class com.qiandu.live.ui.pagersliding.PagerSlidingTabStrip { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.tencent.qalsdk.QALBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.tencent.qalsdk.core.NetConnInfoCenter { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.tencent.qalsdk.service.QalAssistService { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.tencent.qalsdk.service.QalService { <init>(...); }
+
+# view res/layout/activity_live_player.xml #generated:14
+# view res/layout/activity_live_publisher.xml #generated:7
+-keep class com.tencent.rtmp.ui.TXCloudVideoView { <init>(...); }
+
+# view AndroidManifest.xml #generated:130
+-keep class com.tencent.rtmp.video.TXScreenCapture$TXScreenCaptureAssistantActivity { <init>(...); }
+
+# onClick res/layout/activity_live_player.xml #generated:106
+# onClick res/layout/activity_live_player.xml #generated:119
+# onClick res/layout/activity_live_player.xml #generated:132
+# onClick res/layout/activity_live_player.xml #generated:145
+# onClick res/layout/activity_live_player.xml #generated:57
+# onClick res/layout/activity_live_player.xml #generated:66
+# onClick res/layout/activity_live_player.xml #generated:75
+# onClick res/layout/activity_live_player.xml #generated:85
+# onClick res/layout/activity_live_publisher.xml #generated:48
+# onClick res/layout/activity_live_publisher.xml #generated:56
+# onClick res/layout/activity_live_publisher.xml #generated:64
+# onClick res/layout/activity_live_publisher.xml #generated:72
+# onClick res/layout/activity_publish_setting.xml #generated:149
+# onClick res/layout/activity_publish_setting.xml #generated:197
+# onClick res/layout/activity_publish_setting.xml #generated:29
+# onClick res/layout/activity_publish_setting.xml #generated:365
+# onClick res/layout/activity_publish_setting.xml #generated:79
+# onClick res/layout/dialog_pic_choose.xml #generated:26
+# onClick res/layout/dialog_pic_choose.xml #generated:44
+# onClick res/layout/dialog_pic_choose.xml #generated:8
+# onClick res/layout/layout_dialog_pick.xml #generated:22
+# onClick res/layout/layout_dialog_pick.xml #generated:9
+# onClick res/layout/layout_dialognan_pick.xml #generated:22
+# onClick res/layout/layout_dialognan_pick.xml #generated:9
+-keepclassmembers class * { *** onClick(...); }
+

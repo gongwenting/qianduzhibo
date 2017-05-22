@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bg.jpg",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\bg.jpg",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-hdpi\\bg.jpg"
+    }
+]

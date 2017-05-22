@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/dialog_bg_shape"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:gravity="center_horizontal">
+
+            <!--android:scaleType="fitXY"-->
+            <ImageView
+                android:id="@+id/dialog_user_icon"
+                android:layout_width="match_parent"
+                android:background="@drawable/dialog_bg_shape"
+                android:layout_height="match_parent" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@color/background_gray5"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/dialog_user_nick"
+                        android:layout_marginLeft="@dimen/text_size_10"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/white"
+                        android:layout_height="wrap_content"
+                        android:text="昵称"/>
+
+                    <TextView
+                        android:id="@+id/dialog_user_id"
+                        android:layout_marginLeft="@dimen/text_size_10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:text="ID: 9015"/>
+
+                    <TextView
+                        android:id="@+id/dialog_user_level"
+                        android:layout_marginLeft="@dimen/text_size_10"
+                        android:layout_width="wrap_content"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:paddingTop="3dp"
+                        android:paddingBottom="3dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/dialog_user_level_shape"
+                        android:textColor="@color/white"
+                        android:text="LV 37"/>
+
+                    <TextView
+                        android:id="@+id/dialog_user_family"
+                        android:layout_marginLeft="@dimen/text_size_10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:text="快乐星球"/>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/dialog_user_msg"
+                    android:layout_marginTop="@dimen/text_size_10"
+                    android:layout_marginLeft="@dimen/text_size_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="这个人很懒，什么都没留下"/>
+            </LinearLayout>
+
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/text_size_10"
+            android:layout_marginBottom="@dimen/text_size_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/dialog_banned"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_16"
+                android:textColor="@color/text_gray1"
+                android:layout_height="wrap_content"
+                android:text="禁言"/>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_marginLeft="@dimen/text_size_10"
+                android:layout_marginRight="@dimen/text_size_10"
+                android:layout_height="match_parent"
+                android:background="@color/text_gray1"/>
+
+            <TextView
+                android:id="@+id/dialog_report"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/text_gray1"
+                android:textSize="@dimen/text_size_16"
+                android:layout_height="wrap_content"
+                android:text="举报"/>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_marginLeft="@dimen/text_size_10"
+                android:layout_marginRight="@dimen/text_size_10"
+                android:layout_height="match_parent"
+                android:background="@color/text_gray1"/>
+
+            <TextView
+                android:id="@+id/dialog_leave_message"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/text_gray1"
+                android:textSize="@dimen/text_size_16"
+                android:layout_height="wrap_content"
+                android:text="留言"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--<ImageView-->
+        <!--android:id="@+id/dialog_cancle"-->
+        <!--android:layout_marginTop="@dimen/text_size_10"-->
+        <!--android:layout_width="50dp"-->
+        <!--android:layout_height="50dp"-->
+        <!--android:src="@drawable/dialog_user_delete"/>-->
+
+</LinearLayout>

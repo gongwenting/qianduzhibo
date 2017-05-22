@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\image.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_message_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_12.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_12.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\user_click.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\user_click.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\bg_login.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_right.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_camera.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_7.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_switch_camera_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_switch_camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_fennen.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_position.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_position.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_back_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart7.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_liked.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_liked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_6.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_live_p.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_live_p.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\live_choose_circle_item_selected.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\live_choose_circle_item_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_switch_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_camera_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_white_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_white_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_head_1.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\default_head_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\camera_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\button_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\button_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_room.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_room.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart6.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_publish_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_publish_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\barrage_slider_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\barrage_slider_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_switch_default.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\camera_switch_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_head.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\default_head.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_4.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_edit.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_home.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\progress_front.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\progress_front.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_publish_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_publish_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_members.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_members.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_beauty_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_beauty_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_beauty_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_beauty_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_landiao.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_landiao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\progress_bg.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tourist.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tourist.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart4.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_rixi.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_rixi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_beauty_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_beauty_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\motion.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\motion.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart0.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_10.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_2.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_lbs_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_lbs_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_8.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_5.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_room_p.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_room_p.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_return.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_return.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\camera_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\live_choose_circle_item_unselected.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\live_choose_circle_item_unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_langman.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_langman.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\seekbar_line.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_switch_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_qingxin.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_qingxin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart2.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\img_chat_white.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_white.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\barrage_slider_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\barrage_slider_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\beautiful.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_me.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_me.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\live.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\live.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_like_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\playback.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\playback.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\user_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\user_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_weimei.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\like.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\like.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\video_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\video_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\bg_dark.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\bg_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\white.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\img_chat_black.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_black.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_switch_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\camera_switch_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\white_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\white_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\play_click.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\play_click.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_message_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\progress_primary.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_me_p.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_me_p.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart11.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_white_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_white_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\lock_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\lock_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\bg.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart3.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\fliter_qingliang.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\fliter_qingliang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\barrage.9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\barrage.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\blur.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\blur.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart1.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\video_click.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\video_click.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_lbs_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_lbs_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_1.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\beauty_seekbar_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_like_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_bg.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_video.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_my_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_my_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\visitors.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\visitors.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_flash_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_flash_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_my_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_my_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_flash_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_flash_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\button.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\like_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\like_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_9.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\lock_off.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\lock_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\recording_background_vertical.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\recording_background_vertical.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_liked.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart_border.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart_border.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_switch_on.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_3.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_back_gray.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\seekbar_line_highlight.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_line_highlight.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\dialog_user_delete.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\dialog_user_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\play_seekbar_icon.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\play_seekbar_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_back_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\play_start.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\play_start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\praise_heart_11.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_11.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_live.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_live.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_breauty_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_breauty_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_right.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\play_pause.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\play_pause.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\position.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\position.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_switch_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\camera_switch_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_live.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_live.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart10.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\play_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\play_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\beautiful_press.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart8.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\icon_hearts.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_hearts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\face.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\face.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\heart5.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\filter_huaijiu.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_huaijiu.png"
+    }
+]

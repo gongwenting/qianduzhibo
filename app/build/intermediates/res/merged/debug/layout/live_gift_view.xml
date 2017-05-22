@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <View
+        android:id="@+id/outside"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/colorGiftMarketBottomBG">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/gift_market_dialog_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/h8"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/tv_live_giftmarket_balance1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/gift_market_dialog_balance"
+            android:textColor="@color/white"
+            android:textSize="@dimen/h7"/>
+
+        <TextView
+            android:id="@+id/tv_live_coin_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/tv_live_giftmarket_balance1"
+            android:text="0"
+            android:textColor="@color/live_gift_balance_red"
+            android:textSize="@dimen/h7"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/tv_live_coin_count"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/tv_live_coin_count"
+            android:padding="2dp"
+            android:text="@string/gift_market_text_syb"
+            android:textColor="@color/gray_95"
+            android:textSize="@dimen/h7"/>
+
+        <TextView
+            android:id="@+id/tv_live_gift_pay"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="@string/gift_market_dialog_pay"
+            android:textColor="@color/live_gift_balance_red"
+            android:textSize="@dimen/h7"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:src="@color/colorGiftMarketBG"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp">
+
+        <FrameLayout
+            android:id="@+id/loadingViewRoot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorGiftMarketItemBG"
+            android:gravity="center">
+        </FrameLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_share_live_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"/>
+
+        <com.qiandu.live.ui.gift.IndicatorView
+            android:id="@+id/id_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_user"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.qiandu.live.activity.UserActivity"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:id="@+id/tobar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/backclols"
+        android:orientation="horizontal"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:id="@+id/btn_houtui"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:background="@mipmap/title_btn_return"
+                android:paddingTop="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:padding="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/imageView5" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:text="编辑信息"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:layout_alignTop="@+id/btn_houtui"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="保存"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textview_baocun"
+            android:layout_marginRight="14dp"
+            android:layout_marginEnd="14dp"
+            android:layout_alignBaseline="@+id/textView4"
+            android:layout_alignBottom="@+id/textView4"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relativeLayout_touxiang"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:layout_height="70dp">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="15dp"
+
+            android:layout_height="wrap_content"
+            android:text="头像"
+            android:textSize="20sp"
+
+            android:id="@+id/textView23"
+            android:layout_marginStart="15dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/imageView_cover"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:gravity="center_vertical"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <ImageView
+            android:background="@drawable/icon_right"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/imageView"
+            android:layout_marginRight="11dp"
+            android:layout_marginEnd="11dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <EditText
+
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_name"
+            android:background="@null"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:text="大公鸡"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/imageView"
+            android:layout_toStartOf="@+id/imageView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_height="wrap_content"
+            android:text="昵称"
+            android:textSize="20sp"
+
+            android:id="@+id/textView25"
+            android:layout_marginStart="27dp"
+            android:layout_alignBottom="@+id/imageView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:id="@+id/shezhi"
+        android:gravity="center_vertical"
+        android:layout_marginTop="1dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <ImageView
+            android:background="@drawable/icon_right"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginEnd="11dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/imageView2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_height="wrap_content"
+            android:text="性别"
+            android:textSize="20sp"
+
+            android:layout_alignBaseline="@+id/text_xingbie"
+            android:layout_alignBottom="@+id/text_xingbie"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="22dp"
+            android:id="@+id/textView22" />
+
+        <TextView
+            android:id="@+id/text_xingbie"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="16sp"
+
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/imageView2"
+            android:layout_toStartOf="@+id/imageView2" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:gravity="center_vertical"
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="40dp">
+
+        <ImageView
+            android:background="@drawable/icon_right"
+            android:layout_width="30dp"
+            android:visibility="gone"
+            android:layout_height="30dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginEnd="11dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/imageView6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_height="wrap_content"
+            android:text="个人签名"
+            android:textSize="20sp"
+
+            android:layout_marginStart="15dp"
+            android:id="@+id/textView24"
+            android:layout_alignTop="@+id/imageView6"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+        <TextView
+            android:text="您可以在此处修改个性签名"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+    <EditText
+        android:paddingLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:paddingRight="15dp"
+        android:hint="修改个性签名"
+        android:text=""
+        android:background="@null"
+        android:id="@+id/editText_gerenqianming"
+        android:textSize="16sp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/imageView6"
+        android:layout_toStartOf="@+id/imageView6"
+        android:layout_weight="0.30" />
+</LinearLayout>

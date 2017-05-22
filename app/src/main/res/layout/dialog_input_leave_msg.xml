@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_outside_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/rl_inputdlg_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/color_input_dialog_background"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/barrage_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.3"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="25dp"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/leave_message_wall"
+                android:textColor="@color/colorAccent"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorTransparentBlack" />
+
+        <EditText
+            android:id="@+id/et_input_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:imeActionId="@+id/login"
+            android:imeOptions="actionUnspecified"
+            android:inputType="text"
+            android:maxLength="32"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:textColor="@color/black" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorTransparentBlack" />
+
+        <LinearLayout
+            android:id="@+id/confirm_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <Button
+                android:id="@+id/confrim_btn"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:background="@drawable/btn_send_message"
+                android:gravity="center"
+                android:text="@string/send"
+                android:textColor="@color/colorAccent" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_register_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/beijing"
+    tools:context="com.qiandu.live.activity.RegisterActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tv_back"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="17dp"
+            android:layout_marginRight="17dp"
+            android:layout_marginTop="31dp"
+            android:text="@string/login"
+            android:textColor="@color/backclols" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp">
+
+        <LinearLayout
+            android:id="@+id/wwwww"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:src="@mipmap/mymy" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <AutoCompleteTextView
+                    android:background="@null"
+                    android:id="@+id/et_register"
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1.00"
+                    android:ellipsize="end"
+                    android:imeOptions="actionNext"
+                    android:hint="@string/activity_login_username"
+                    android:inputType="textEmailAddress"
+                    android:maxLength="24"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="14sp" />
+                <Button
+
+                    android:layout_width="80dp"
+                    android:layout_height="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@mipmap/huoquyanzhengma"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:id="@+id/btn_verify_code" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/white"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignLeft="@+id/et_register"
+                    android:layout_alignStart="@+id/et_register"
+                    android:id="@+id/textView7" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cccc"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/wwwww"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:src="@mipmap/suosuosuo" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+                <AutoCompleteTextView
+                    android:background="@null"
+                    android:id="@+id/et_yanzhengma"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:ellipsize="end"
+                    android:hint="验证码"
+                    android:imeOptions="actionNext"
+                    android:inputType="textEmailAddress"
+                    android:maxLength="24"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/white"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp" />
+
+
+            </RelativeLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/baoguo"
+            android:layout_marginTop="20dp"
+            android:layout_width="90dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/denglurelativelayout"
+            android:layout_centerHorizontal="true">
+            <ImageView
+                android:layout_marginRight="30dp"
+                android:id="@+id/qq"
+
+                android:background="@mipmap/qq"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                />
+            <ImageView
+
+                android:id="@+id/weixin"
+                android:background="@mipmap/wileweixin"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/yanzhngma"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:layout_below="@+id/cccc"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            >
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:src="@mipmap/suosuosuo"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <AutoCompleteTextView
+                    android:id="@+id/et_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:ellipsize="end"
+                    android:background="@null"
+                    android:inputType="textPassword"
+                    android:layout_marginLeft="5dp"
+                    android:hint="@string/activity_login_password"
+                    android:imeOptions="actionDone"
+                    android:maxLength="24"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignBottom="@+id/et_password"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/white"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+
+            android:id="@+id/denglurelativelayout"
+            android:layout_width="120dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/yanzhngma"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:id="@+id/btn_register"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:background="@drawable/button_bg_shape"
+                android:text="@string/register"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

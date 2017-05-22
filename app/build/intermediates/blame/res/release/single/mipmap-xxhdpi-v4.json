@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\recording_background_horizontal.jpg",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_horizontal.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\recording_background_private_horizontal.jpg",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_private_horizontal.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\recording_background_private_vertical.jpg",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_private_vertical.jpg"
+    }
+]

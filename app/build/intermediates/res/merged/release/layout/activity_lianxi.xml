@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_lianxi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.qiandu.live.activity.LianxiActivity">
+    <RelativeLayout
+        android:id="@+id/tobar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/backclols"
+        android:orientation="horizontal"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:id="@+id/btn_houtui"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:background="@mipmap/title_btn_return"
+                android:paddingTop="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:padding="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:text="联系我们"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:layout_alignTop="@+id/btn_houtui"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+    <TextView
+        android:text="       网络直播吸取和延续了互联网的优势，利用视讯方式进行网上现场直播，可以将产品展示、相关会议、背景介绍、方案测评、网上调查、对话访谈、在线培训等内容现场发布到互联网上，利用互联网的直观、快速，表现形式好、内容丰富、交互性强、地域不受限制、受众可划分等特点，加强活动现场的推广效果。现场直播完成后，还可以随时为读者继续提供重播、点播，有效延长了直播的时间和空间，发挥直播内容的最大价值。"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/h12"
+        android:padding="10dp"
+
+        android:id="@+id/textView9"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tobar" />
+
+    <TextView
+        android:id="@+id/tell"
+        android:gravity="center"
+        android:text="@string/tell"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="@color/backclols"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tellg" />
+
+    <TextView
+        android:id="@+id/tellll"
+        android:gravity="center"
+        android:text="客服QQ:947138666"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="@color/backclols"
+        android:layout_below="@+id/tellg"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="52dp" />
+
+    <TextView
+        android:id="@+id/tellg"
+        android:textColor="@color/backclols"
+        android:gravity="center"
+        android:text="邮箱地址:947138666@qq.com"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/textView9"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
