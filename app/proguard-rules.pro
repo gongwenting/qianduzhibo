@@ -88,3 +88,4 @@
     public static **[] values();
     public static ** valueOf(java.lang.String);
 }
+-keepattributes EnclosingMetho

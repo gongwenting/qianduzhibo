@@ -1,15 +1,15 @@
 [
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_edittext.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
@@ -17,7 +17,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
@@ -25,7 +25,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color-v23\\design_tint_password_toggle.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_spinner.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
@@ -57,11 +57,11 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_switch_track.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_default.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
@@ -69,11 +69,11 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color-v23\\abc_color_highlight_material.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",

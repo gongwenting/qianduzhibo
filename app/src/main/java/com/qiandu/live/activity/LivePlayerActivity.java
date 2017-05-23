@@ -74,6 +74,12 @@ import com.tencent.rtmp.TXLiveConstants;
 import com.tencent.rtmp.TXLivePlayConfig;
 import com.tencent.rtmp.TXLivePlayer;
 import com.tencent.rtmp.ui.TXCloudVideoView;
+import com.umeng.socialize.ShareAction;
+import com.umeng.socialize.UMShareListener;
+import com.umeng.socialize.bean.SHARE_MEDIA;
+import com.umeng.socialize.media.UMImage;
+import com.umeng.socialize.media.UMWeb;
+import com.umeng.socialize.shareboard.ShareBoardConfig;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -95,6 +101,8 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
     private String mPlayUrl = "";
     private boolean mPlaying = false;
     private LiveInfo mLiveInfo;
+    //分享按钮
+    private ImageView btn_fengxiang;
     //关注
     private ImageView guanzhu;
     private boolean guanzhumeiyou;
@@ -211,6 +219,8 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
         mIMChatPresenter = new IMChatPresenter(this);
         guanbi = (ImageView) findViewById(R.id.btn_close);
         guanbi.setOnClickListener(this);
+        btn_fengxiang=(ImageView) findViewById(R.id.btn_fengxiang);
+        btn_fengxiang.setOnClickListener(this);
         //主播信息
         tvPuserName = obtainView(R.id.tv_broadcasting_time);
         tvPuserName.setText(OtherUtils.getLimitString(mLiveInfo.userInfo.nickname, 10));
@@ -345,9 +355,34 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
         ribang.setOnClickListener(this);
     }
 
+    private UMShareListener umShareListener = new UMShareListener() {
+        @Override
+        public void onStart(SHARE_MEDIA platform) {
+            //分享开始的回调
+        }
+        @Override
+        public void onResult(SHARE_MEDIA platform) {
+            Log.d("plat","platform"+platform);
 
+            Toast.makeText(LivePlayerActivity.this, " 分享成功啦", Toast.LENGTH_SHORT).show();
+
+        }
+
+        @Override
+        public void onError(SHARE_MEDIA platform, Throwable t) {
+//            Toast.makeText(MainActivity.this," 分享失败啦", Toast.LENGTH_SHORT).show();
+            if(t!=null){
+
+                Log.d("throw","throw:"+t.getMessage());
+            }
+        }
+
+        @Override
+        public void onCancel(SHARE_MEDIA platform) {
+            Toast.makeText(LivePlayerActivity.this,platform + " 分享取消了", Toast.LENGTH_SHORT).show();
+        }
+    };
     @Override
-
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.ribang:
@@ -357,7 +392,19 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
                 intent.putExtra("live_id",mLiveInfo.liveId);
                 startActivity(intent);
                 break;
-
+            case R.id.btn_fengxiang:
+                ShareBoardConfig config = new ShareBoardConfig();
+                config.setShareboardPostion(ShareBoardConfig.SHAREBOARD_POSITION_CENTER);
+                config.setMenuItemBackgroundShape(ShareBoardConfig.BG_SHAPE_CIRCULAR);
+                config.setCancelButtonVisibility(true);
+                UMWeb web = new UMWeb("http://www.qianduzhibo.com/wap/index.php?user_id=68509");
+                web.setTitle("千度直播-我正在发起直播，点击下载app来围观我吧！");
+                web.setDescription("屌丝的福利，土豪的天堂，最专业的美女直播平台！");
+                web.setThumb(new UMImage(LivePlayerActivity.this, R.mipmap.logoo));
+                new ShareAction(LivePlayerActivity.this).withMedia(web)
+                        .setDisplayList(SHARE_MEDIA.WEIXIN,SHARE_MEDIA.WEIXIN_CIRCLE,SHARE_MEDIA.QQ,SHARE_MEDIA.QZONE)
+                        .setCallback(umShareListener).open(config);
+                break;
             case R.id.btn_close:
                 showComfirmDialog(getString(R.string.msg_stop_watch), false);
 

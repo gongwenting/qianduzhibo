@@ -40,40 +40,40 @@
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\heart5.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_fennen.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\praise_heart_4.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_fennen.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_fennen.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_gray.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_gray.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\seekbar_line.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_line.png"
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\beautiful_press.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_message_pressed.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message_pressed.png"
     },
     {
-        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\beautiful_press.png",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\seekbar_line.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_line.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\motion.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\motion.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_position.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_position.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_lbs_off.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_lbs_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_position.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_position.png"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_front.png",
@@ -108,12 +108,12 @@
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\heart4.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_choose_circle_item_unselected.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\live_choose_circle_item_unselected.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\play_start.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\play_start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\live_choose_circle_item_unselected.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\live_choose_circle_item_unselected.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\heart11.png",
@@ -156,24 +156,24 @@
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_12.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_weimei.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_flash_png.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_flash_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_weimei.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\filter_weimei.png"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\camera_on.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\camera_on.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_room_p.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_room_p.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_right.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_room_p.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_room_p.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\like.png",
@@ -184,28 +184,28 @@
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\btn_home.png"
     },
     {
-        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_normal.png",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\user_normal.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_gray.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_gray.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_live.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_live.png"
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_normal.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\user_normal.png"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\face.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\face.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\praise_heart_7.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_7.png"
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_live.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\tab_live.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_members.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_members.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\praise_heart_7.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_7.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_primary.png",
@@ -216,16 +216,16 @@
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_flash_pressed.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_like_png.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_png.png"
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_right.png",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\praise_heart_1.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\praise_heart_1.png"
     },
     {
-        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_right.png",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_like_png.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_png.png"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_edit.png",

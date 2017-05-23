@@ -9,7 +9,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_top.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_icon_in.xml",
@@ -17,19 +17,19 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_out.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_in.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slice_in_left.xml",
@@ -52,12 +52,12 @@
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\anim\\live_gift_view_out.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slice_out_left.xml",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\anim\\anim_slice_out_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
@@ -65,7 +65,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
@@ -81,15 +81,15 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_view_in.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\anim\\live_gift_view_in.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_in.xml",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\anim\\live_gift_in.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_view_in.xml",
+        "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\anim\\live_gift_view_in.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_market.xml",
@@ -105,7 +105,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_top.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slice_out_left.xml",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slice_out_right.xml",
@@ -149,23 +149,23 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_out.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_in.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_enter.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_in.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\live_gift_icon_in.xml",
@@ -181,7 +181,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slice_in_right.xml",
@@ -209,7 +209,7 @@
     },
     {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_out.xml"
+        "source": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",

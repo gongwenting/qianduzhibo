@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_btn_gift_normal.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_btn_gift_normal.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rechar_gouqian.png",
         "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\rechar_gouqian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live_btn_gift_normal.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\drawable-xhdpi\\live_btn_gift_normal.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_normal.png",

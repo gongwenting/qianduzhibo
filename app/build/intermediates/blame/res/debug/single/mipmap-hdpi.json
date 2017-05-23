@@ -52,12 +52,12 @@
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-hdpi\\heart22.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\heart15.png",
-        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-hdpi\\heart15.png"
-    },
-    {
         "merged": "D:\\GitHub\\qianduzhibo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\qq.png",
         "source": "D:\\GitHub\\qianduzhibo\\app\\src\\main\\res\\mipmap-hdpi\\qq.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\heart15.png",
+        "source": "D:\\AndroidStudioProjects\\5-16\\app\\src\\main\\res\\mipmap-hdpi\\heart15.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\5-16\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\wqe2.png",

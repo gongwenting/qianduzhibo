@@ -11,6 +11,7 @@ import android.widget.ProgressBar;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.qiandu.live.R;
 import com.qiandu.live.presenter.LoginPresenter;
@@ -18,8 +19,12 @@ import com.qiandu.live.presenter.ipresenter.ILoginPresenter;
 import com.qiandu.live.utils.AsimpleCache.ACache;
 import com.qiandu.live.utils.AsimpleCache.CacheConstants;
 import com.qiandu.live.utils.OtherUtils;
+import com.umeng.socialize.UMAuthListener;
+import com.umeng.socialize.UMShareAPI;
+import com.umeng.socialize.bean.SHARE_MEDIA;
 
 import java.lang.ref.WeakReference;
+import java.util.Map;
 
 /**
  * @Description: 登陆页面
@@ -38,12 +43,35 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
     private TextInputLayout tilLogin, tilPassword;
     private TextView btnRegister;
     private TextView zhuce;
+    private ImageView QQ;
+    private ImageView weixin;
     //手机验证登陆控件
     private TextView tvVerifyCode;
     private LoginPresenter mLoginPresenter;
 
     private TextView forgetPswd;
 
+    private UMAuthListener umAuthListener = new UMAuthListener() {
+        @Override
+        public void onStart(SHARE_MEDIA platform) {
+            //授权开始的回调
+        }
+        @Override
+        public void onComplete(SHARE_MEDIA platform, int action, Map<String, String> data) {
+            Toast.makeText(getApplicationContext(), "Authorize succeed", Toast.LENGTH_SHORT).show();
+
+        }
+
+        @Override
+        public void onError(SHARE_MEDIA platform, int action, Throwable t) {
+            Toast.makeText( getApplicationContext(), "Authorize fail", Toast.LENGTH_SHORT).show();
+        }
+
+        @Override
+        public void onCancel(SHARE_MEDIA platform, int action) {
+            Toast.makeText( getApplicationContext(), "Authorize cancel", Toast.LENGTH_SHORT).show();
+        }
+    };
 
     @Override
     protected int getLayoutId() {
@@ -60,6 +88,10 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         btnLogin = obtainView(R.id.btn_login);
         tvVerifyCode = obtainView(R.id.btn_verify_code);
         forgetPswd = obtainView(R.id.forget_pswd);
+        QQ=obtainView(R.id.qq);
+        weixin=obtainView(R.id.weixin);
+        QQ.setOnClickListener(this);
+        weixin.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
         zhuce.setOnClickListener(this);
         forgetPswd.setOnClickListener(this);
@@ -105,6 +137,13 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
                 break;
             case R.id.forget_pswd:
                 ForgetPswdActivity.invoke(this);
+                break;
+            case R.id.qq:
+                UMShareAPI.get(LoginActivity.this).getPlatformInfo(LoginActivity.this, SHARE_MEDIA.QQ, umAuthListener);
+                break;
+            case R.id.weixin:
+//                UmengTool.checkWx(LoginActivity.this);
+                UMShareAPI.get(LoginActivity.this).getPlatformInfo(LoginActivity.this, SHARE_MEDIA.WEIXIN, umAuthListener);
                 break;
         }
     }
