@@ -184,7 +184,33 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
     };
 
 
+    private UMShareListener umShareListener = new UMShareListener() {
+        @Override
+        public void onStart(SHARE_MEDIA platform) {
+            //分享开始的回调
+        }
+        @Override
+        public void onResult(SHARE_MEDIA platform) {
+            Log.d("plat","platform"+platform);
 
+            Toast.makeText(LivePlayerActivity.this, " 分享成功啦", Toast.LENGTH_SHORT).show();
+
+        }
+
+        @Override
+        public void onError(SHARE_MEDIA platform, Throwable t) {
+//            Toast.makeText(MainActivity.this," 分享失败啦", Toast.LENGTH_SHORT).show();
+            if(t!=null){
+
+                Log.d("throw","throw:"+t.getMessage());
+            }
+        }
+
+        @Override
+        public void onCancel(SHARE_MEDIA platform) {
+            Toast.makeText(LivePlayerActivity.this,platform + " 分享取消了", Toast.LENGTH_SHORT).show();
+        }
+    };
     @Override
     protected void setBeforeLayout() {
         super.setBeforeLayout();
@@ -219,8 +245,8 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
         mIMChatPresenter = new IMChatPresenter(this);
         guanbi = (ImageView) findViewById(R.id.btn_close);
         guanbi.setOnClickListener(this);
-        btn_fengxiang=(ImageView) findViewById(R.id.btn_fengxiang);
-        btn_fengxiang.setOnClickListener(this);
+//        btn_fengxiang=(ImageView) findViewById(R.id.btn_fengxiang);
+//        btn_fengxiang.setOnClickListener(this);
         //主播信息
         tvPuserName = obtainView(R.id.tv_broadcasting_time);
         tvPuserName.setText(OtherUtils.getLimitString(mLiveInfo.userInfo.nickname, 10));
@@ -355,33 +381,7 @@ public class LivePlayerActivity extends IMBaseActivity implements View.OnClickLi
         ribang.setOnClickListener(this);
     }
 
-    private UMShareListener umShareListener = new UMShareListener() {
-        @Override
-        public void onStart(SHARE_MEDIA platform) {
-            //分享开始的回调
-        }
-        @Override
-        public void onResult(SHARE_MEDIA platform) {
-            Log.d("plat","platform"+platform);
 
-            Toast.makeText(LivePlayerActivity.this, " 分享成功啦", Toast.LENGTH_SHORT).show();
-
-        }
-
-        @Override
-        public void onError(SHARE_MEDIA platform, Throwable t) {
-//            Toast.makeText(MainActivity.this," 分享失败啦", Toast.LENGTH_SHORT).show();
-            if(t!=null){
-
-                Log.d("throw","throw:"+t.getMessage());
-            }
-        }
-
-        @Override
-        public void onCancel(SHARE_MEDIA platform) {
-            Toast.makeText(LivePlayerActivity.this,platform + " 分享取消了", Toast.LENGTH_SHORT).show();
-        }
-    };
     @Override
     public void onClick(View v) {
         switch (v.getId()) {

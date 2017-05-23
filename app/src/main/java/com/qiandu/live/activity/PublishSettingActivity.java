@@ -17,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.qiandu.live.R;
@@ -34,6 +35,11 @@ import com.qiandu.live.utils.Constants;
 import com.qiandu.live.utils.LogUtil;
 import com.qiandu.live.utils.OtherUtils;
 import com.qiandu.live.utils.ToastUtils;
+import com.umeng.socialize.ShareAction;
+import com.umeng.socialize.UMShareListener;
+import com.umeng.socialize.bean.SHARE_MEDIA;
+import com.umeng.socialize.media.UMImage;
+import com.umeng.socialize.media.UMWeb;
 
 import java.io.File;
 import java.io.IOException;
@@ -50,6 +56,9 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 	private TextView BtnBack, btnPublish;
 	private Dialog mPicChsDialog;
 	private ImageView cover;
+	private ImageView QQ;
+	private ImageView WEIXIN;
+	private ImageView WEIXINCERCLE;
 	//相册
 	private Uri fileUri, cropUri;
 	private TextView tvPicTip;
@@ -69,6 +78,34 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 
 	private PublishSettingPresenter mPublishSettingPresenter;
 	private String onNumber;
+	//分享监听
+	private UMShareListener umShareListener = new UMShareListener() {
+		@Override
+		public void onStart(SHARE_MEDIA platform) {
+			//分享开始的回调
+		}
+		@Override
+		public void onResult(SHARE_MEDIA platform) {
+			Log.d("plat","platform"+platform);
+
+			Toast.makeText(PublishSettingActivity.this, platform + " 分享成功啦", Toast.LENGTH_SHORT).show();
+
+		}
+
+		@Override
+		public void onError(SHARE_MEDIA platform, Throwable t) {
+			Toast.makeText(PublishSettingActivity.this,platform + " 分享失败啦", Toast.LENGTH_SHORT).show();
+			if(t!=null){
+				Log.d("throw","throw:"+t.getMessage());
+			}
+		}
+
+		@Override
+		public void onCancel(SHARE_MEDIA platform) {
+			Toast.makeText(PublishSettingActivity.this,platform + " 分享取消了", Toast.LENGTH_SHORT).show();
+		}
+	};
+	UMWeb web = new UMWeb("http://www.qianduzhibo.com/wap/index.php?user_id=68509");
 
 	@Override
 	protected int getLayoutId() {
@@ -90,6 +127,11 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 		mRGRecordType = obtainView(R.id.rg_record_type);
 		mRGBitrate = obtainView(R.id.rg_bitrate);
 		mRLBitrate = obtainView(R.id.rl_bitrate);
+		QQ=obtainView(R.id.qq);
+		WEIXIN=obtainView(R.id.weixin);
+		WEIXINCERCLE=obtainView(R.id.pengyouquan);
+
+
 		initPhotoDialog();
 	}
 
@@ -102,7 +144,9 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 		mPublishSettingPresenter = new PublishSettingPresenter(this);
 		mPermission = mPublishSettingPresenter.checkPublishPermission(this);
 		judgmentanchor("gain", ACache.get(this).getAsString("user_id"));
-
+		web.setTitle("千度直播-我正在发起直播，点击下载app来围观我吧！");
+		web.setDescription("屌丝的福利，土豪的天堂，最专业的美女直播平台！");
+		web.setThumb(new UMImage(PublishSettingActivity.this, R.mipmap.logoo));
 //		//默认显示图片
 //		String strCover = ACache.get(this).getAsString("head_pic");
 //		if (!TextUtils.isEmpty(strCover)) {
@@ -124,6 +168,9 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 		btnPublish.setOnClickListener(this);
 		btnLBS.setOnClickListener(this);
 		btnRecord.setOnClickListener(this);
+		QQ.setOnClickListener(this);
+		WEIXIN.setOnClickListener(this);
+		WEIXINCERCLE.setOnClickListener(this);
 	}
 
 	// TODO: 2017/5/16
@@ -208,6 +255,26 @@ public class PublishSettingActivity extends IMBaseActivity implements View.OnCli
 				break;
 			case R.id.dialog_btn_cancel:
 				mPicChsDialog.dismiss();
+				break;
+			case R.id.qq:
+
+				new ShareAction(PublishSettingActivity.this).setPlatform(SHARE_MEDIA.QQ)
+						.withMedia(web)
+						.setCallback(umShareListener)
+						.share();
+				break;
+			case R.id.weixin:
+
+				new ShareAction(PublishSettingActivity.this).setPlatform(SHARE_MEDIA.WEIXIN)
+						.withMedia(web)
+						.setCallback(umShareListener)
+						.share();
+				break;
+			case R.id.pengyouquan:
+				new ShareAction(PublishSettingActivity.this).setPlatform(SHARE_MEDIA.WEIXIN_CIRCLE)
+						.withMedia(web)
+						.setCallback(umShareListener)
+						.share();
 				break;
 		}
 	}
