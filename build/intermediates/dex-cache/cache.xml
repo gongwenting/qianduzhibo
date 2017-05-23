@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_2d3bd3ee2824643f7665cf037028b65180b8c26d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\13636\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
         jumboMode="false"
         optimize="true"
@@ -30,12 +21,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dc09846075b535576671188dda46b968a466dd4">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_social_net_8215ff99e3855868ea129fa6b44becbe5551d904.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\GitHub\qianduzhibo\app\libs\soload.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="75fac6d5abe785d6658b93e008f7ef77b3fcfdc0">
         <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\soload_e74698e06e656d5754107812e187d5e65debabf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d317e9db81ba1036032d739923f54be732ea6417.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,30 +57,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\develop\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_881ce87f04bd38e9d859eccd243ef12caf376a16.jar" />
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_99bc42741286d2a3e1ecd39a843e4db963fe9436.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_1d1cd245be00b45c3bc84f854b2067ada2db811d.jar" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_d197f21e3e60f61f0b5fa83f397ff59462dcce81.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_social_shareview.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_23bee36f90e30fc9429a1e6cd662cd8373261f9d.jar" />
+        sha1="7302d576b34443698c6e1bd5301a146682198c16">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_social_shareview_7cb38974951414e573e98c31f7785f41722e689f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_2e5bb00bc801619abe0df811b547898d529126b3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +102,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_4c20c96df4cbbc4deeb87d9538646907a482b440.jar" />
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_a1c348abd66861dfe135a917564bf902abf8bfb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb1c4e9db2e6c4b41a50bcd7f4f6f1375f783121">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\SocialSDK_WeChat_Simplify_82dff3ff4a69f19fcecf54fdcb83a3eed89a2443.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,12 +129,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_d4a24f2207241d73a4ef1f7a10f09e30d640e528.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_b33b9305873f9bde7ecf942e81af07cb08889195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_1b8c986c085c6dc771c549e7d1ce8aefcd6962c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_4f6e9254541df8e79488bb198204b7b17ff0bc78.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,21 +165,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_c909592d18e735842e59cce5b323d41e87f0194f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\GitHub\qianduzhibo\app\libs\nineoldandroids-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
         <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_18afbab24b71d4becc4cc0d494703d226db07d0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_410d63bc3fa5132c776dcee8253f464f732b9f25.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +201,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_121b4e433cdc30e6c0832214582120cf27819f47.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="155fef2600f48631a9e9665c0873743b6d24e324">
         <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_563a5351c1954e57600d727c40656f8ea864cb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0872b5d9028b4abe5502fdf6808cbe328400a387">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\SocialSDK_QQ_Simplify_729de31ef138e20e498e2ea83306c1fd362f3a04.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,12 +264,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_5f019d5c12bf5da9a344715fd967753b281ebc67.jar" />
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_e8bbed1caddd92e87bfa34b0401636f431de343f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="583b8ff361b007c184f9a14d0975374b111ad0f1">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_Simplify_6e7bb3a6142230c39e0445b2aff73007d1239818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_social_tool.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_social_tool_db46064aae6dbafd95b2c6d9339a9c681fbe1bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c698121d485cc1cd502ff8fad5e4e71f72ad1e9b">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_social_shareboard_0ae90a29d83425892707933c1e720aa326d29ffe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -246,6 +318,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\SocialSDK_alipay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8447ad07eedf86896fd340f15b9ecf887a5836a4">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\SocialSDK_alipay_895775334612f3d2eca244b2d33090ef4067bfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\GitHub\qianduzhibo\app\libs\alipaySingle-20161222.jar"
         jumboMode="false"
         optimize="true"
@@ -264,30 +345,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\libs\libapshare.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_99be3edc60a36f4bb098ea7c777302f3c4873d29.jar" />
+        sha1="18847ccd171b966c0e05319a709420e87f8fd5c3">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\libapshare_dd604d4a8eafe1816d99f9283ec8926a9d7f3f2e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_shareboard_widget.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_46adbd94a7607304c698c8df065904f9698ae72b.jar" />
+        sha1="4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_shareboard_widget_8986ab0c851a3ac6d4ca7509740ec2c2a4e538a8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_262b0ef897dfcdf3a3da666c47f9e3441b23728d.jar" />
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_d874d5e1cd005e51ce24aaed219b4024543309b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_452daf40344df20b01ad82e593d1aaf06c7b5893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\qianduzhibo\app\libs\umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b746609643403fd41d57014af6606db06a39fdb0">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\umeng_social_api_5c3707b8b8c74a40fae733574f78c73b5404b5d2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -300,12 +399,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jar="D:\GitHub\qianduzhibo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_6fb6b05c831d8b771a762a5369ea614d7b8683a2.jar" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\GitHub\qianduzhibo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_e8e31991aac0425ca7b59984604a6a0e73e30338.jar" />
     </item>
 
 </items>
