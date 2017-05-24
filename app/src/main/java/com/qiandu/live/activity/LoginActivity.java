@@ -2,7 +2,9 @@ package com.qiandu.live.activity;
 
 import android.content.Context;
 import android.content.Intent;
+import android.os.Bundle;
 import android.support.design.widget.TextInputLayout;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -55,9 +57,11 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         @Override
         public void onStart(SHARE_MEDIA platform) {
             //授权开始的回调
+            Toast.makeText(getApplicationContext(), "Authorize start", Toast.LENGTH_SHORT).show();
         }
         @Override
         public void onComplete(SHARE_MEDIA platform, int action, Map<String, String> data) {
+            Log.e("ad",data.toString());
             Toast.makeText(getApplicationContext(), "Authorize succeed", Toast.LENGTH_SHORT).show();
 
         }
@@ -225,5 +229,22 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         Intent intent = new Intent(context, LoginActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
         context.startActivity(intent);
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        UMShareAPI.get(this).onActivityResult(requestCode, resultCode, data);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        UMShareAPI.get(this).release();
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        UMShareAPI.get(this).onSaveInstanceState(outState);
     }
 }
