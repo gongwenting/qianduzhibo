@@ -15,6 +15,9 @@ import android.widget.Toast;
  * @Description:界面的抽取，包括标题、网络、图片加载
  * @author: Andruby
  * @date: 2016年7月7日 下午4:46:44
+ *
+ *
+ *
  */
 public abstract class BaseActivity extends FragmentActivity {
 	protected Context mContext;
