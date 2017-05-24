@@ -31,6 +31,9 @@ import com.bumptech.glide.Glide;
 
 import java.io.File;
 
+
+
+
 public class BinderJiazuActivity extends IMBaseActivity implements View.OnClickListener,
         IFamilySettingPresenter.IFamilySettingView, RadioGroup.OnCheckedChangeListener {
     public static final String TAG=BinderJiazuActivity.class.getSimpleName();
